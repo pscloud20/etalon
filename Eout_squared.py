@@ -4,6 +4,9 @@ Created on Wed Nov  9 23:23:38 2022
 
 @author: pgara
 """
+
+#editing
+
 import numpy as np
 from scipy.optimize import curve_fit
 from scipy.signal import find_peaks
